@@ -1,2 +1,5 @@
-# api-crud
-API CRUD example with json server
+# API CRUD
+## Run API
+- npm i
+- npm start
+- Enjoy :)

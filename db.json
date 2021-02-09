@@ -1,0 +1,19 @@
+{
+    "cards": [
+        {
+            "id": 1,
+            "name": "lotus",
+            "edition": "alpha"
+        },
+        {
+            "id": 2,
+            "name": "baby",
+            "edition": "beta"
+        },
+        {
+            "id": 3,
+            "name": "teen",
+            "edition": "gama"
+        }
+    ]
+}
