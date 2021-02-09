@@ -1,19 +1,42 @@
 {
-    "cards": [
+    "trades": [
         {
             "id": 1,
-            "name": "lotus",
-            "edition": "alpha"
+            "userOwner": 1,
+            "userBuyer": 2,
+            "status": 1
         },
         {
             "id": 2,
-            "name": "baby",
-            "edition": "beta"
+            "userOwner": 2,
+            "userBuyer": 3,
+            "status": 1
         },
         {
             "id": 3,
-            "name": "teen",
-            "edition": "gama"
+            "userOwner": 3,
+            "userBuyer": 1,
+            "status": 1
+        }
+    ],
+    "users": [
+        {
+            "id":1,
+            "name": "Peter",
+            "email": "peter@email.com",
+            "password": "peter1234"
+        },
+        {
+            "id":2,
+            "name": "James",
+            "email": "james@email.com",
+            "password": "james1234"
+        },
+        {
+            "id":3,
+            "name": "John",
+            "email": "john@email.com",
+            "password": "john1234"
         }
     ]
 }
